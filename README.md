@@ -1,10 +1,13 @@
 # Serverless TODO
 
+## Node Version
+> v18.16.0
+
 To implement this project you need to implement a simple TODO application using AWS Lambda and Serverless framework. Search for all the `TODO:` comments in the code to find the placeholders that you need to implement.
 
 # Functionality of the application
 
-This appliation will allow to create/remove/update/get TODO items. Each TODO item can optionally have an attachment image. Each user only has access to TODO items that he/she has created. 
+This application will allow to create/remove/update/get TODO items. Each TODO item can optionally have an attachment image. Each user only has access to TODO items that he/she has created. 
 
 # Functions to be implemented
 
